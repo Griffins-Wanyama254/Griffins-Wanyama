@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Griffo 👋</h1>
 
 <p align="center">
-  <em>Junior Front-End Developer | ALX Software Engineering Learner | Inclusive Tech Advocate</em>
+  <em>Junior Front-End Developer | ALX Software Engineering Learner | ALX Data Science Learner</em>
 </p>
 
 ---
@@ -21,7 +21,7 @@ My passion for learning has led me to explore everything from clean code to comm
 - Building responsive, accessible web interfaces with **HTML, CSS & JavaScript**
 - Understanding how the **terminal works**, including topics like piping and redirection
 - Writing clean, reusable code and organizing files professionally
-- Exploring **data science basics** alongside front-end development
+- Exploring **data science** alongside front-end development
 
 ---
 
@@ -46,6 +46,7 @@ My passion for learning has led me to explore everything from clean code to comm
 ## ⚒️ Tools & Languages
 
 <p>
+   <!-- Front-End Tools -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -53,6 +54,15 @@ My passion for learning has led me to explore everything from clean code to comm
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/ALX_Student-000000?style=flat&logo=linux&logoColor=white" />
+
+  <!-- Data Tools -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-0C2233?style=flat&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
